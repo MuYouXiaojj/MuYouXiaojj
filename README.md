@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![](https://github-readme-stats.vercel.app/api?username=MuYouXiaojj&theme=dark)
+#### :bar_chart: Weekly development breakdown
+
 
 ![](https://komarev.com/ghpvc/?username=MuYouXiaojj&color=green)
 
