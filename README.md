@@ -13,5 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🛠  Tech Stack
+Python  JavaScript  Java  C  C++  R (Statistics)
+React  Node.js  Django  Flask  Bootstrap
+HTML  CSS  Git  GitHub  Markdown
+Visual Studio Code  RStudio  Eclipse
+Illustrator  Photoshop  InDesign
 
+⚙️  GitHub Analytics
 ![](https://komarev.com/ghpvc/?username=MuYouXiaojj&color=green)
