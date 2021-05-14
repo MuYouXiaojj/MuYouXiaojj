@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=MuYouXiaojj&theme=dark)
 
 ![](https://komarev.com/ghpvc/?username=MuYouXiaojj&color=green)
-<a href="https://github.com/xzMhehe"><img align='right' src="https://github-readme-stats.vercel.app/api?username=xzMhehe&show_icons=true"></a>
+
 
 
 [![Blog](https://img.shields.io/badge/blog.winterchen-%20-yellow?logo=bloglovin)](https://blog.winterchen.com)
